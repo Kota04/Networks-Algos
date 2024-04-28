@@ -76,3 +76,8 @@ Upon running the client program, it establishes a connection with the server and
 
 The communication between the server and the client is based on a basic stop-and-wait protocol, ensuring reliable transmission of data over the TCP/IP connection.
 
+## DNS host name to ip name
+
+### Description 
+It translates the all host names to ip addresses by connecting it to google dns server
+
